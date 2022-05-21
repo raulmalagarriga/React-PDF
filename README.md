@@ -8,7 +8,7 @@ To install the necessary dependencies:
 
 npm install  
 
-To install react-pdf
+To install react-pdf:
 
 npm install react-pdf
  
